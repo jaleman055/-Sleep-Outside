@@ -1,6 +1,8 @@
 SleepOutside url:
 https://main--calm-centaur-715256.netlify.app/
 
+https://calm-centaur-715256.netlify.app/
+
 permalink:
 
 https://659e7c83a17148dab6197642--calm-centaur-715256.netlify.app/
